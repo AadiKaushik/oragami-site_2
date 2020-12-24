@@ -1,0 +1,52 @@
+.menu  {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: lightblue;
+
+}
+.bodyimg{
+    font-family: sans-serif;
+  
+    position: relative;
+    text-align: center;
+}
+.body {
+   
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+.body {
+    background-color: transparent;
+    
+  }
+.menu a{
+    display:flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    
+}
+
+*{
+    background-color: lightblue;
+}
+
+.grid img
+{
+display: flex;
+flex-wrap: wrap;
+border:5px solid black;
+border-radius: 50px;
+}
+.grid{
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.oragami{
+ border-radius: 20px;
+    width: 310px;
+ font-family:fantasy ;
+  
+}
